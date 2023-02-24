@@ -1,5 +1,5 @@
-This is auto test case for group SP14
-Link to test case: https://docs.google.com/document/d/12pejL4j8UV0b6cycu8mUIrafdRVLijhbg3f8fLufqOE/edit#heading=h.4p21cf3a837x
+This is an auto test case for group SP14
+Link to my test case: https://docs.google.com/document/d/12pejL4j8UV0b6cycu8mUIrafdRVLijhbg3f8fLufqOE/edit#heading=h.4p21cf3a837x
 
 Guide:
 
